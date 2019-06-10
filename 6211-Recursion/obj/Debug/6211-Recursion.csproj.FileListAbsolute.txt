@@ -1,0 +1,7 @@
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\bin\Debug\6211-Recursion.exe.config
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\bin\Debug\6211-Recursion.exe
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\bin\Debug\6211-Recursion.pdb
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\obj\Debug\6211-Recursion.csprojAssemblyReference.cache
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\obj\Debug\6211-Recursion.csproj.CoreCompileInputs.cache
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\obj\Debug\6211-Recursion.exe
+C:\Users\9950230.LABNET\source\repos\6211-Recursion\6211-Recursion\obj\Debug\6211-Recursion.pdb
